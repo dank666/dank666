@@ -30,18 +30,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub Activity Graph
 
-![Zephyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=dank666&show_icons=true&theme=radical)
+[![Tejing Wang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dank666&theme=github-compact&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dank666&layout=compact&theme=radical)
+---
+
+## 🧾 GitHub Stats
+
+![Tejing Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dank666&show_icons=true&hide_title=true&hide_border=true&theme=default&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dank666&layout=compact&hide_border=true&theme=default&bg_color=00000000)
 
 ---
 
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zephyr-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejing-wang-3aa703341/?originalSubdomain=cn)  
-[![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:wtejing@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Gmail-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:wtejing@gmail.com)  
 
 ---
 
