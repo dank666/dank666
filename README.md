@@ -25,7 +25,7 @@
 
 ## 📂 Featured Projects
 
-### [Fullstack Blog System](https://github.com/dank666/blog-php-mysql)  
+### [PHP-MySQL Blog](https://github.com/dank666/blog-php-mysql)  
 *A personal blog system built with PHP and MySQL.*  
 
 ---
