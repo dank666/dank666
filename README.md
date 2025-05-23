@@ -43,7 +43,6 @@
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zephyr-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejing-wang-3aa703341/?originalSubdomain=cn)  
 [![Email](https://img.shields.io/badge/Email-Gmail-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:wtejing@gmail.com)  
 
 ---
