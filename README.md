@@ -48,14 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dank666&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dank666&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 📫 Contact Me
 
