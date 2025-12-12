@@ -22,13 +22,6 @@
 ---
 
 
-## 🧾 GitHub Stats
-
-![Tejing Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dank666&show_icons=true&hide_title=true&hide_border=true&theme=default&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dank666&layout=compact&hide_border=true&theme=default&bg_color=00000000)
-
----
-
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-Gmail-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:wtejing@gmail.com)  
