@@ -1,53 +1,17 @@
-# 👋 Hi, I'm Tejing Wang
+# 👋 Tejing Wang's Profile
+Hi!<br>
+Welcome to my GitHub homepage!
 
-🎓 **Undergraduate Student in Artificial Intelligence**  
-💡 Interested in **AI, Machine Learning, Data Science, and Full-Stack Development**  
-🌍 Passionate about building intelligent systems and exploring real-world applications of AI
+## 👦🏻 About Me
+I am A scientific worker in computer science.<br>
+My research area is **Digital Twins, Virtual Reality and AI**.<br>
+Languages that I am comfortable with include **![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)**.<br>
+My target is to be A true scientist,<br>
+and to read *The Complete Sherlock Holmes*🕵️‍♂️
 
----
-
-## 🧠 About Me
-
-- 🔭 AI major undergraduate student with a strong interest in **intelligent systems & data-driven applications**
-- 🌱 Currently learning **Machine Learning, Deep Learning, and Backend Development**
-- 💬 Comfortable with **Python, basic ML pipelines, and Linux-based development**
-- ⚡ I enjoy exploring new technologies and continuously improving my technical skills
-
----
-
-## 🎯 Current Focus
-
-- 🤖 Machine Learning & Artificial Intelligence  
-- 📊 Data Analysis & Data Engineering basics  
-- 🌐 Full-Stack Web Development (Backend-oriented)  
-- 🐧 Linux & Engineering Environment Setup  
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Systems & Tools
+## 🖥️ Systems that I like
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
----
-
-## 📌 Selected Interests
-
-- Artificial Intelligence & Machine Learning  
-- Data Science & Knowledge Discovery  
-- Backend Systems & Databases  
-- Practical Engineering & System Design  
-
----
-
 
 ## 📫 Contact Me
 
